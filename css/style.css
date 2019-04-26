@@ -1,0 +1,12 @@
+h1 {
+    color: red;
+    
+    /* Note how these are very similar to OBJECTS in js */
+}
+
+img {
+    border: 5px solid rgb(139, 139, 209);
+    border-radius: 50%;
+    /* as long as the img (or more generically, any element)
+     is symmetrical, the img will become a circle*/
+}
